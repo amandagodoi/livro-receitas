@@ -3,3 +3,4 @@
 Olá! Bem vindo ao meu liro de receitas
 
 - Strogonoff de frango
+- Pavê
